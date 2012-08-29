@@ -23,7 +23,7 @@ Instructions on how to install the contents of the repo, including command
 line instructions if neccessary
 
 ### How to Start (optional)
-If the application is a service, instructions on how to get it going
+**If the application is a service, instructions on how to get it going**
      python repo.py -arg1 description1 -arg2 description2
 
 ## Features (optional)
@@ -41,7 +41,7 @@ interface, be it command line or other
 * -B: description of B
 
 ### Common Commands
-To do X common thing
+**To do X common thing**
     ./repo -A A1
 
 ## Configuration
@@ -58,6 +58,6 @@ What goes into folder 2
 
 ## Author
 
-Author: Authors' names
-Collaborators: Collaborators' names
+**Author(s): Authors' names**
+**Collaborator(s): Collaborators' names**
 #### (C) Copyright 2012, [Delphi Solutions](http://Delphi.us)
